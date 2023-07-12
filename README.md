@@ -1,16 +1,7 @@
 # flutter_calculator
 
-A new Flutter project.
+flutter를 이용한 계산기 프로그램
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 실행화면 
+일반적인 계산기와 동일
+![image](https://github.com/lelo52/flutter_calculator/assets/115298517/04aed82d-76e4-4348-bbce-638c8860c281)
